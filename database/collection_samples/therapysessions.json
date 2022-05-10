@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "627a81f9c0506e06fe424145"
+  },
+  "Date": "2022-05-31",
+  "Time": "10:30",
+  "Client": [
+    {
+      "$oid": "627a7da76d29cb2dfc456d4c"
+    }
+  ],
+  "Therapist": {
+    "$oid": "627a7b816d29cb2dfc456d48"
+  },
+  "SessionNumber": 3,
+  "SessionAttendance": "Attended",
+  "SessionType": "Intake",
+  "SessionNotes": "Session completed 2",
+  "Fee": 40.5
+}]
